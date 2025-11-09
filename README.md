@@ -32,6 +32,10 @@ or via requirements.txt:
 
 pip install -r requirements.txt
 
+## Usage:
+
+jupyter notebook main.ipynb
+
 ## Insights from Simulations
 
 Simulation results and insights are maintained in the notebook. For example:
