@@ -1,4 +1,4 @@
-# RPS Strategy Analyzer
+# RPS Simulator
 
 A Python project to simulate and analyze different strategies in the classic Rock-Paper-Scissors (RPS) game. The project implements a variety of strategies, including probabilistic, reactive, and adaptive behaviors, and allows comparisons between them through simulation.
 
