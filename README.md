@@ -23,13 +23,14 @@ A Python project to simulate and analyze different strategies in the classic Roc
 * Python 3.8+
 * `numpy`
 
-Install dependencies:
+## Installation
+Dependencies:
 
-```bash
 pip install numpy
-```
 
-(`random` is part of the standard library and does not need installation.)
+or via requirements.txt:
+
+pip install -r requirements.txt
 
 ## Insights from Simulations
 
